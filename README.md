@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on machine learning and AI-based projects with real-world use cases.<br>👯 I’m looking to collaborate on AI, ML, and open-source projects.<br>🤝 I’m looking for help with improving model optimization and deployment.<br>🌱 I’m currently learning advanced machine learning, deep learning, and system design.<br>💬 Ask me about Python, machine learning fundamentals, and AI project ideas.<br>⚡ Fun fact: I enjoy turning complex problems into simple, working solutions.
+🔭 I’m currently working on machine learning and AI-based projects with real-world use cases.<br>👯 I’m looking to collaborate on AI, ML, and open-source projects.<br>🤝 I’m looking for help with improving model optimization and deployment.<br>🌱 I’m currently learning advanced machine learning, deep learning, and system design.<br>
 
 
 ## 🌐 Socials:
