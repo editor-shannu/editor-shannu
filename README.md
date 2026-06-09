@@ -27,5 +27,5 @@
 
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
-[![]()
+[![](dancing-gopher.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
