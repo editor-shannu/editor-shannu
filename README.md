@@ -24,4 +24,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=editor-shannu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### The vibe
+relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
+[![]()
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
