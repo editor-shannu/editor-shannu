@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannu.fx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shanmukha-sri-saikumar-medisetty) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shannufx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medisettyshanmukh@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannu.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shanmukha-sri-saikumar-medisetty) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shannufx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medisettyshanmukh@gmail.com) 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=editor-shannu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
