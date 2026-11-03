@@ -1,12 +1,12 @@
 <!-- Midnight Glass profile for editor-shannu -->
 <p align="center">
-  <img src="assets/hero.svg" alt="Shanmukha | AI/ML Developer" width="100%" />
+  <img src="assets/hero.svg?v=2" alt="Shanmukha | AI/ML Developer" width="100%" />
 </p>
 
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
-      <img src="assets/character/avatar.webp" alt="Shanmukha 3D developer avatar" width="220" />
+      <!-- Character portrait will be embedded directly into id-dashboard.svg as a Base64 PNG, per the build guide. -->
     </td>
     <td valign="middle">
       <h2>Hey, I'm Shanmukha Sri Saikumar</h2>
@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <img src="assets/character/pointing.webp" alt="Shanmukha character pointing to social links" width="180" />
+  <!-- Pointing character will be embedded directly into connect.svg as a Base64 PNG, per the build guide. -->
 </p>
 <p align="center">
   <strong>Have an interesting idea or collaboration in mind?</strong><br/>
