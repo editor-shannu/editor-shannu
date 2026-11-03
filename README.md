@@ -1,83 +1,24 @@
-<!-- Midnight Glass profile for editor-shannu -->
+<!-- Animated profile based on animated-github-profile-2page-guide.pdf -->
 <p align="center">
-  <img src="assets/hero.svg?v=2" alt="Shanmukha | AI/ML Developer" width="100%" />
-</p>
-
-<table>
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <!-- Character portrait will be embedded directly into id-dashboard.svg as a Base64 PNG, per the build guide. -->
-    </td>
-    <td valign="middle">
-      <h2>Hey, I'm Shanmukha Sri Saikumar</h2>
-      <p><strong>Final-year B.Tech student in Artificial Intelligence & Machine Learning</strong></p>
-      <p>I build practical AI-powered applications, experiment with intelligent systems, and enjoy turning ideas into useful products.</p>
-      <p>
-        <a href="https://shannukodz.site">Portfolio</a> ·
-        <a href="https://www.linkedin.com/in/shanmukha-sri-saikumar-medisetty">LinkedIn</a> ·
-        <a href="https://instagram.com/shannu.ai">Instagram</a> ·
-        <a href="https://x.com/shannufx">X</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## What I'm focused on
-
-- Generative AI, LLM applications and AI agents
-- Machine learning and computer vision
-- Building and deploying real-world AI products
-- Exploring developer tools and creative technology
-
-## Tech I work with
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=67e8f9)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=f59e0b)
-![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=93c5fd)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=a5b4fc)
-
-**AI / Data**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=fbbf24)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=fb923c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=f97316)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=22d3ee)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=60a5fa)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=c4b5fd)
-
-**Tools & platforms**  
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=fde68a)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=f0abfc)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=editor-shannu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editor-shannu&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1" height="165" alt="Top languages" />
+  <img src="hero.svg?v=4" width="100%" alt="Shanmukha animated developer hero" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=editor-shannu&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+  <img src="about-life.svg?v=4" width="100%" alt="About Shanmukha and interests" />
 </p>
 
----
+<p align="center">
+  <img src="stack.svg?v=4" width="100%" alt="Technology orbit and skill groups" />
+</p>
 
 <p align="center">
-  <!-- Pointing character will be embedded directly into connect.svg as a Base64 PNG, per the build guide. -->
+  <img src="id-dashboard.svg?v=4" width="100%" alt="Developer ID badge and dashboard" />
 </p>
+
 <p align="center">
-  <strong>Have an interesting idea or collaboration in mind?</strong><br/>
-  Let's connect and build something useful.
+  <img src="https://raw.githubusercontent.com/editor-shannu/editor-shannu/output/profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="3D night-view contribution city" />
 </p>
+
 <p align="center">
-  <a href="https://shannukodz.site">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/shanmukha-sri-saikumar-medisetty">LinkedIn</a> ·
-  <a href="https://instagram.com/shannu.ai">Instagram</a>
+  <img src="connect.svg?v=4" width="100%" alt="Connect with Shanmukha" />
 </p>
