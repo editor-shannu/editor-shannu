@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
-      <img src="assets/character/avatar.png" alt="Shanmukha 3D developer avatar" width="220" />
+      <img src="assets/character/avatar.webp" alt="Shanmukha 3D developer avatar" width="220" />
     </td>
     <td valign="middle">
       <h2>Hey, I'm Shanmukha Sri Saikumar</h2>
@@ -56,17 +56,6 @@
 
 ---
 
-## Selected projects
-
-| Project | What it does |
-|---|---|
-| **Alkame** | AI-powered market intelligence and algorithmic signal-generation research platform. |
-| **Prescriptime** | Digital prescription and medication-adherence management concept with AI-assisted extraction. |
-| **Electricare** | Electricity complaint tracking platform connecting residents and service teams. |
-| **Drone AI** | Experiments around AI-powered drone assistance and smart-city applications. |
-
-Explore my repositories for implementation details, demos and updates.
-
 ## GitHub activity
 
 <p align="center">
@@ -81,7 +70,7 @@ Explore my repositories for implementation details, demos and updates.
 ---
 
 <p align="center">
-  <img src="assets/character/pointing.png" alt="Shanmukha character pointing to social links" width="180" />
+  <img src="assets/character/pointing.webp" alt="Shanmukha character pointing to social links" width="180" />
 </p>
 <p align="center">
   <strong>Have an interesting idea or collaboration in mind?</strong><br/>
