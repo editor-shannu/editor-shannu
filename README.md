@@ -1,36 +1,94 @@
-# 💫 About Me:
-🔭 I’m currently working on machine learning and AI-based projects with real-world use cases.<br>👯 I’m looking to collaborate on AI, ML, and open-source projects.<br>🤝 I’m looking for help with improving model optimization and deployment.<br>🌱 I’m currently learning advanced machine learning, deep learning, and system design.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shannu.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shanmukha-sri-saikumar-medisetty) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shannufx) 
-
+<!-- Midnight Glass profile for editor-shannu -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=editor-shannu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="assets/hero.svg" alt="Shanmukha | AI/ML Developer" width="100%" />
 </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <img src="assets/character/avatar.png" alt="Shanmukha 3D developer avatar" width="220" />
+    </td>
+    <td valign="middle">
+      <h2>Hey, I'm Shanmukha Sri Saikumar</h2>
+      <p><strong>Final-year B.Tech student in Artificial Intelligence & Machine Learning</strong></p>
+      <p>I build practical AI-powered applications, experiment with intelligent systems, and enjoy turning ideas into useful products.</p>
+      <p>
+        <a href="https://shannukodz.site">Portfolio</a> ·
+        <a href="https://www.linkedin.com/in/shanmukha-sri-saikumar-medisetty">LinkedIn</a> ·
+        <a href="https://instagram.com/shannu.ai">Instagram</a> ·
+        <a href="https://x.com/shannufx">X</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=editor-shannu&show_icons=true&theme=github_dark&v=20260708)
+---
 
-![](https://streak-stats.demolab.com?user=editor-shannu&theme=github-dark&v=20260708)
+## What I'm focused on
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=editor-shannu&layout=compact&theme=github_dark&v=20260708)
+- Generative AI, LLM applications and AI agents
+- Machine learning and computer vision
+- Building and deploying real-world AI products
+- Exploring developer tools and creative technology
 
-## 📈 GitHub Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=editor-shannu&theme=github-dark)
+## Tech I work with
 
-## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=editor-shannu&theme=github_dark)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=67e8f9)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=f59e0b)
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=93c5fd)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=a5b4fc)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**AI / Data**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=fbbf24)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=fb923c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=f97316)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=22d3ee)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=60a5fa)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=c4b5fd)
 
+**Tools & platforms**  
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=fde68a)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=f0abfc)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
+---
 
-### The vibe
-relax, write some code, be a tea drinking canadian nerd, and enjoy life 🍵
-[![](dancing-gopher.gif)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+| Project | What it does |
+|---|---|
+| **Alkame** | AI-powered market intelligence and algorithmic signal-generation research platform. |
+| **Prescriptime** | Digital prescription and medication-adherence management concept with AI-assisted extraction. |
+| **Electricare** | Electricity complaint tracking platform connecting residents and service teams. |
+| **Drone AI** | Experiments around AI-powered drone assistance and smart-city applications. |
+
+Explore my repositories for implementation details, demos and updates.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=editor-shannu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editor-shannu&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=editor-shannu&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/character/pointing.png" alt="Shanmukha character pointing to social links" width="180" />
+</p>
+<p align="center">
+  <strong>Have an interesting idea or collaboration in mind?</strong><br/>
+  Let's connect and build something useful.
+</p>
+<p align="center">
+  <a href="https://shannukodz.site">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shanmukha-sri-saikumar-medisetty">LinkedIn</a> ·
+  <a href="https://instagram.com/shannu.ai">Instagram</a>
+</p>
